@@ -1,0 +1,16 @@
+
+body{
+    background-color: aqua;
+}
+.ok{
+    width: 500px;
+    height: 560px;
+    border: 3px solid black;
+    margin-left: 300px;
+}
+.image{
+    background-image: url(images.jpg);
+    width: 100px;
+    height: 10vh;
+    padding: auto;
+}
